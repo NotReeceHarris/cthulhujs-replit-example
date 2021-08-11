@@ -1,0 +1,23 @@
+{
+  "name": "cthulhujs-replit-example-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotReeceHarris/cthulhujs-replit-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotReeceHarris/cthulhujs-replit-example/issues"
+  },
+  "homepage": "https://github.com/NotReeceHarris/cthulhujs-replit-example#readme",
+  "dependencies": {
+    "cthulhu.js": "^1.0.5"
+  }
+}
