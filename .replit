@@ -1,3 +1,2 @@
-language = "nodejs"
 package = "cthulhu.js"
 run = "node main.js"
