@@ -7,4 +7,4 @@ cthulhu.server.serve('/', ['GET'], function (req, res){
 })
 
 // Start the server on port 8080 in hardened mode, Default: 80,false
-cthulhu.server.start(8080,true)
+cthulhu.server.start(8080,false)
