@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/NotReeceHarris/cthulhujs-replit-example#readme",
   "dependencies": {
-    "@techonaut/cthulhu": "1.0.0"
+    "cthulhu_js": "1.0.1"
   }
 }
