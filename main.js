@@ -1,5 +1,5 @@
 // Import the Cthulhu module
-const cthulhu = require('cthulhu.js')
+const cthulhu = require('cthulhu')
 
 // Serve the Webpage '/' allowing only 'GET' and 'POST' requests
 cthulhu.server.serve('/', ['GET'], function (req, res){
